@@ -13,10 +13,13 @@ Who is playing is defined by a single bit, where 0 = X and 1 = O.
 ## WHERE THEY ARE PLAYING
 Board postition is defined by a 4-digit nibble, starting at the top left corner with 0 (0000) and ending at the bottom right corner with 8 (1000).
 
+|---|---|---|
 | 0 | 1 | 2 |
+|---|---|---|
 | 3 | 4 | 5 |
+|---|---|---|
 | 6 | 7 | 8 |
--
+|---|---|---|
 
 For example, an X placed in the middle square can be denoted with the following command: 0 0100
 
