@@ -1,4 +1,5 @@
 # Challenge Solution
+Using this system, draw out the current boardstate as defined below and find the command for the winning move
 
 0 0100 1 0001 0 0000 1 1000 0 0110 1 0011
 
