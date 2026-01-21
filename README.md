@@ -16,9 +16,7 @@ Board postition is defined by a 4-digit nibble, starting at the top left corner 
 | 0 | 1 | 2 |
 |---|---|---|
 | 3 | 4 | 5 |
-|---|---|---|
 | 6 | 7 | 8 |
-|---|---|---|
 
 For example, an X placed in the middle square can be denoted with the following command: 0 0100
 
