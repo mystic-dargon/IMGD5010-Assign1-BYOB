@@ -1,6 +1,6 @@
 # IMGD 5010 - Assignment 1 - BYOB: T1C-TAC-T0E
 
-*T1C-TAC-T0E* can be used to describe boardstates in tic-tac-toe game using commands composed of a single bit and a 4-digit nibble.
+*T1C-TAC-T0E* can be used to describe boardstates in a tic-tac-toe game using commands composed of a single bit and a 4-digit nibble.
 To write a single command in *T1C-TAC-T0E*, start by denoting who is playing, and then what location on the board they are placing their mark.
 A full board state can then be defined by listing the moves taken in sequental order.
 
