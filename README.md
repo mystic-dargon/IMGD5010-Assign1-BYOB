@@ -23,18 +23,18 @@ For example, an X placed in the middle square can be denoted with the following 
 
 ## THE CHALLENGES
 
-**Challenge 1:**
+***Challenge 1:***
 
 Using this system, draw out the current boardstate as defined below and find the command for the winning move.
 
 0 0100 1 0001 0 0000 1 1000 0 0110 1 0011
 
-**Challenge 2:**
+***Challenge 2:***
 
 Write out the command string for the following set of moves:
 
 O plays top-right, X plays middle-left, O plays top-middle, X plays top-left, O plays bottom-left, X plays center
 
-**Challenge 3:**
+***Challenge 3:***
 
 Play a game with yourself using *T1C-TAC-T0E* commands!
