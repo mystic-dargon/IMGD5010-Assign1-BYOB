@@ -8,6 +8,7 @@ A full board state can then be defined by listing the moves taken in sequental o
 Who is playing is defined by a single bit, where 0 = X and 1 = O.
 
 0 = Xs
+
 1 = Os
 
 ## WHERE THEY ARE PLAYING
